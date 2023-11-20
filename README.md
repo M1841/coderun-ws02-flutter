@@ -19,12 +19,16 @@ Here, you can find the training support, useful links and contact persons for ou
 | main_tutorial_1 | Project after training session 1 |
 | main_tutorial_2  | Project after training session 2 |
 
+![git_branches](https://github.com/carinaArrk/CodeRunResources/blob/main/img/git_branch.PNG)
+
 Development flow chart
 
 ```mermaid
 graph LR
 A[main] -- training seesion 1 --> B[main_tutorial_1] -- training seesion 2 --> C[main_tutorial_2]
 ```
+
+
 
 > **Note1:** You may need to fork / download the new repository in order to have the new branches on you account / computer
 
