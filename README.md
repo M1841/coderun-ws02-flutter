@@ -13,8 +13,32 @@ Here, you can find the training support, useful links and contact persons for ou
 
 ## Project Structure
 
-**initial_persona_arrk/persona_arrk** - here is the project skeleton from session 1
+| Branch Name| Project |
+| ------ | ------ |
+| main | Project Skeleton |
+| main_tutorial_1 | Project after training session 1 |
+| main_tutorial_2  | Project after training session 2 |
 
+Development flow chart
+
+```mermaid
+graph LR
+A[main] -- training seesion 1 --> B[main_tutorial_1] -- training seesion 2 --> C[main_tutorial_2]
+```
+
+> **Note1:** You may need to fork / download the new repository in order to have the new branches on you account / computer
+
+> **Note2:** You can use the following git commands to access other branches
+>
+>```sh
+>git checkout main_tutorial_1
+>```
+>
+>or
+>
+>```sh
+>git checkout main_tutorial_2
+>```
 
 # Resources
 
