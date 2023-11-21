@@ -6,6 +6,8 @@ Here, you can find the training support, useful links and contact persons for ou
 
 ## Quick Link for installations
 
+https://we.tl/t-Kj70aeXgWp
+
 [Create and Manage virtual devices](https://developer.android.com/studio/run/managing-avds)
 
 [How to install Flutter on Windows](https://www.liquidweb.com/kb/how-to-install-and-configure-flutter-sdk-windows-10/)
