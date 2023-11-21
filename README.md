@@ -4,6 +4,11 @@
 
 Here, you can find the training support, useful links and contact persons for our lessons. 
 
+## Quick Link for installations
+
+[Create and Manage virtual devices](https://developer.android.com/studio/run/managing-avds)
+
+[How to install Flutter on Windows](https://www.liquidweb.com/kb/how-to-install-and-configure-flutter-sdk-windows-10/)
 
 ## How to use this repo
 
